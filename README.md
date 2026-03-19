@@ -66,7 +66,8 @@ git clone https://github.com/your-username/student-dashboard-bootstrap.git
 ## 📸 Screenshots
 
 * Profile section
-  <img width="1744" height="616" alt="image" src="https://github.com/user-attachments/assets/cf5dd977-e415-416d-9985-24e4edb3cfe2" />
+  <img width="1794" height="779" alt="Screenshot 2026-03-19 150828" src="https://github.com/user-attachments/assets/aba3d611-6efb-487a-b8db-312025227b54" />
+
 
 * Skills/progress bars
   <img width="1744" height="616" alt="image" src="https://github.com/user-attachments/assets/86e70f91-e5cc-43a8-acd6-296b309bc7c7" />
