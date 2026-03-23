@@ -23,6 +23,11 @@ This project emphasizes front-end development, layout structuring, and responsiv
 
 ---
 
+## 🔗 Live Demo
+https://arbazmudassar.github.io/student-dashboard-bootstrap/
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS, Bootstrap
